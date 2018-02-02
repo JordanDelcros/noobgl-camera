@@ -1,6 +1,6 @@
 {
   "name": "noobgl-camera",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Camera class designed for noobgl",
   "main": "index.js",
   "repository": {
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/noobgl/noobgl-camera#readme",
   "dependencies": {
-    "noobgl-matrix": "0.0.3",
+    "noobgl-matrix": "^0.0.3",
     "noobgl-vector": "0.0.2"
   }
 }
