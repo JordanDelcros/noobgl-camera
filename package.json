@@ -1,11 +1,11 @@
 {
   "name": "noobgl-camera",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Camera class designed for noobgl",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JordanDelcros/noobgl-camera.git"
+    "url": "git+https://github.com/noobgl/noobgl-camera.git"
   },
   "keywords": [
     "camera",
@@ -15,9 +15,9 @@
   "author": "Jordan Delcros",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JordanDelcros/noobgl-camera/issues"
+    "url": "https://github.com/noobgl/noobgl-camera/issues"
   },
-  "homepage": "https://github.com/JordanDelcros/noobgl-camera#readme",
+  "homepage": "https://github.com/noobgl/noobgl-camera#readme",
   "dependencies": {
     "noobgl-matrix": "0.0.1",
     "noobgl-vector": "0.0.1"
